@@ -14,6 +14,7 @@ let me = {
     "discord": "sky#4793"
   },
   "pronouns": ["they", "he", "she"],
+  "gender": null,
   "location": "Northeast US"
 }
 ```

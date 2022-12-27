@@ -2,19 +2,19 @@
 
 ```javascript
 let me = {
-  "languages": ["JavaScript", "HTML", "CSS", "Python"],
+  "languages": ["JavaScript", "HTML", "CSS", "Python", "SQL"],
   "frameworks": ["Node.js", "express", "socket.io"],
   "currentlyWorkingOn": {
-    "projectName": "SpeedMath",
-    "website": "speedmath.ml",
-    "lookingForContributors": true
+    "projectName": "Checkhouse",
+    "website": "checkhouse.cf",
+    "lookingForContributors": true /* reach out if you're a chess nerd and want to contribute :) */
   },
   "currentlyLearning": ["TensorFlow", "Keras"],
   "contact": {
     "discord": "sky#4793"
   },
-  "pronouns": ["they", "he", "she"],
-  "gender": null,
+  "pronouns": ["she", "they", "he"], /* only out to close friends irl so please don't out me to specific people without asking first */
+  "gender": null, /* https://www.merriam-webster.com/dictionary/agender */
   "location": "Northeast US"
 }
 ```

@@ -11,7 +11,7 @@ let me = {
   },
   "currentlyLearning": ["TensorFlow", "Keras"],
   "contact": {
-    "discord": "sky#4793"
+    "discord": "sky3.142"
   },
   "pronouns": ["she", "they", "he"], /* only out to close friends irl so please don't out me to specific people without asking first */
   "gender": null, /* https://www.merriam-webster.com/dictionary/agender */

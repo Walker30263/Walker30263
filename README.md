@@ -13,7 +13,7 @@ let me = {
   "contact": {
     "discord": "sky3.142"
   },
-  "pronouns": ["she", "they", "he"], /* only out to close friends irl so please don't out me to specific people without asking first */
+  "pronouns": ["she", "they", "he"],
   "gender": null, /* https://www.merriam-webster.com/dictionary/agender */
   "location": "Northeast US"
 }

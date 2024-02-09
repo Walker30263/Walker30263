@@ -4,11 +4,6 @@
 let me = {
   "languages": ["JavaScript", "HTML", "CSS", "Python", "SQL"],
   "frameworks": ["Node.js", "express", "socket.io"],
-  "currentlyWorkingOn": {
-    "projectName": "Checkhouse",
-    "website": "checkhouse.cf",
-    "lookingForContributors": true /* reach out if you're a chess nerd and want to contribute :) */
-  },
   "currentlyLearning": ["TensorFlow", "Keras"],
   "contact": {
     "discord": "sky3.142"
